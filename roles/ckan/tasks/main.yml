@@ -9,6 +9,7 @@
     - python-dev
     - python-pip
     - python-virtualenv
+    - python-psycopg2
 
 - name: Upgrade python-pip
   command: pip install --upgrade pip
